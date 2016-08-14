@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/D01_HelloWorld/D01_HelloWorld.iml" filepath="$PROJECT_DIR$/D01_HelloWorld/D01_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D02_ActivityJumpTest/D02_ActivityJumpTest.iml" filepath="$PROJECT_DIR$/D02_ActivityJumpTest/D02_ActivityJumpTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D02_IntentTest/D02_IntentTest.iml" filepath="$PROJECT_DIR$/D02_IntentTest/D02_IntentTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D02_LinearLayoutTest/D02_LinearLayoutTest.iml" filepath="$PROJECT_DIR$/D02_LinearLayoutTest/D02_LinearLayoutTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+    </modules>
+  </component>
+</project>

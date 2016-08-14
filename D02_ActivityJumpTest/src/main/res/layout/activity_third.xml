@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+    android:layout_width= "match_parent"
+    android:layout_height= "match_parent" >
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Move To MainAcvitivy"
+        android:id="@+id/third_move_main"
+
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Move To SecondAcvitivy"
+        android:id="@+id/third_move_second"
+        android:layout_below= "@id/third_move_main"
+        />
+
+
+</RelativeLayout>
