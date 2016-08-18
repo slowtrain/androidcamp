@@ -5,7 +5,7 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="C:\Android\Android Studio22\gradle\gradle-2.14.1" />
+        <option name="gradleHome" value="C:\Android\android-studio\gradle\gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -18,6 +18,10 @@
             <option value="$PROJECT_DIR$/D03_PaddingMarginTest" />
             <option value="$PROJECT_DIR$/D03_RelativeLayoutTest_1" />
             <option value="$PROJECT_DIR$/D03_RelativeLayoutTest_2" />
+            <option value="$PROJECT_DIR$/D04_LaunchModeTest" />
+            <option value="$PROJECT_DIR$/D04_ServiceTest" />
+            <option value="$PROJECT_DIR$/D04_SmsBroadcastReceiver" />
+            <option value="$PROJECT_DIR$/SendTest" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
