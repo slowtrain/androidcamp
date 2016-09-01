@@ -9,18 +9,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/D01_HelloWorld" />
-            <option value="$PROJECT_DIR$/D02_ActivityJumpTest" />
-            <option value="$PROJECT_DIR$/D02_IntentTest" />
-            <option value="$PROJECT_DIR$/D02_LinearLayoutTest" />
-            <option value="$PROJECT_DIR$/D03_ConstraintLayoutTest" />
-            <option value="$PROJECT_DIR$/D03_LinearLayoutTest_weight" />
-            <option value="$PROJECT_DIR$/D03_PaddingMarginTest" />
-            <option value="$PROJECT_DIR$/D03_RelativeLayoutTest_1" />
-            <option value="$PROJECT_DIR$/D03_RelativeLayoutTest_2" />
-            <option value="$PROJECT_DIR$/D04_LaunchModeTest" />
-            <option value="$PROJECT_DIR$/D04_ServiceTest" />
-            <option value="$PROJECT_DIR$/D04_SmsBroadcastReceiver" />
+            <option value="$PROJECT_DIR$/D06_ToolbarFabTest" />
+            <option value="$PROJECT_DIR$/D07_NavigationViewTest" />
+            <option value="$PROJECT_DIR$/D07_RecyclerViewTest" />
+            <option value="$PROJECT_DIR$/D08_CardViewTest" />
+            <option value="$PROJECT_DIR$/D08_FragmentTest" />
+            <option value="$PROJECT_DIR$/D08_ViewPagerTest" />
             <option value="$PROJECT_DIR$/SendTest" />
           </set>
         </option>

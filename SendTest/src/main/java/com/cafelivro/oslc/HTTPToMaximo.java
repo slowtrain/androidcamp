@@ -1,6 +1,7 @@
 package com.cafelivro.oslc;
 
 import android.util.Base64;
+import android.util.Log;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -14,6 +15,8 @@ import java.net.URL;
 import com.ibm.json.java.JSONObject;
 
 public class HTTPToMaximo {
+
+
 
 
     public static final String HTTP_METHOD_POST = "POST";
@@ -243,7 +246,7 @@ public class HTTPToMaximo {
         int responseCode =-1;
         try {
             String requestUri=basicUri+"/"+objectStructure;
-
+            Log.d("URL",requestUri);
             URL httpUrl = new URL(requestUri);
             HttpURLConnection urlConnection = (HttpURLConnection) httpUrl.openConnection();
 
