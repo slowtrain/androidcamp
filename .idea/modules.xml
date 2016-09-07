@@ -8,6 +8,11 @@
       <module fileurl="file://$PROJECT_DIR$/D08_CardViewTest/D08_CardViewTest.iml" filepath="$PROJECT_DIR$/D08_CardViewTest/D08_CardViewTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/D08_FragmentTest/D08_FragmentTest.iml" filepath="$PROJECT_DIR$/D08_FragmentTest/D08_FragmentTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/D08_ViewPagerTest/D08_ViewPagerTest.iml" filepath="$PROJECT_DIR$/D08_ViewPagerTest/D08_ViewPagerTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D09_AnimationTest/D09_AnimationTest.iml" filepath="$PROJECT_DIR$/D09_AnimationTest/D09_AnimationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D09_AsyncTaskTest/D09_AsyncTaskTest.iml" filepath="$PROJECT_DIR$/D09_AsyncTaskTest/D09_AsyncTaskTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D09_ObjectAnimatorTest/D09_ObjectAnimatorTest.iml" filepath="$PROJECT_DIR$/D09_ObjectAnimatorTest/D09_ObjectAnimatorTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D09_ScrollingTest/D09_ScrollingTest.iml" filepath="$PROJECT_DIR$/D09_ScrollingTest/D09_ScrollingTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D09_ShapeSelectorStyleTest/D09_ShapeSelectorStyleTest.iml" filepath="$PROJECT_DIR$/D09_ShapeSelectorStyleTest/D09_ShapeSelectorStyleTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/SendTest/SendTest.iml" filepath="$PROJECT_DIR$/SendTest/SendTest.iml" />
     </modules>

@@ -15,6 +15,11 @@
             <option value="$PROJECT_DIR$/D08_CardViewTest" />
             <option value="$PROJECT_DIR$/D08_FragmentTest" />
             <option value="$PROJECT_DIR$/D08_ViewPagerTest" />
+            <option value="$PROJECT_DIR$/D09_AnimationTest" />
+            <option value="$PROJECT_DIR$/D09_AsyncTaskTest" />
+            <option value="$PROJECT_DIR$/D09_ObjectAnimatorTest" />
+            <option value="$PROJECT_DIR$/D09_ScrollingTest" />
+            <option value="$PROJECT_DIR$/D09_ShapeSelectorStyleTest" />
             <option value="$PROJECT_DIR$/SendTest" />
           </set>
         </option>
