@@ -9,18 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/D06_ToolbarFabTest" />
-            <option value="$PROJECT_DIR$/D07_NavigationViewTest" />
-            <option value="$PROJECT_DIR$/D07_RecyclerViewTest" />
-            <option value="$PROJECT_DIR$/D08_CardViewTest" />
-            <option value="$PROJECT_DIR$/D08_FragmentTest" />
-            <option value="$PROJECT_DIR$/D08_ViewPagerTest" />
-            <option value="$PROJECT_DIR$/D09_AnimationTest" />
             <option value="$PROJECT_DIR$/D09_AsyncTaskTest" />
-            <option value="$PROJECT_DIR$/D09_ObjectAnimatorTest" />
-            <option value="$PROJECT_DIR$/D09_ScrollingTest" />
-            <option value="$PROJECT_DIR$/D09_ShapeSelectorStyleTest" />
-            <option value="$PROJECT_DIR$/SendTest" />
+            <option value="$PROJECT_DIR$/D10_AlertDialog" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

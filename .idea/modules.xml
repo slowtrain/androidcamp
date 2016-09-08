@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/D06_ToolbarFabTest/D06_ToolbarFabTest.iml" filepath="$PROJECT_DIR$/D06_ToolbarFabTest/D06_ToolbarFabTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/D07_NavigationViewTest/D07_NavigationViewTest.iml" filepath="$PROJECT_DIR$/D07_NavigationViewTest/D07_NavigationViewTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/D07_RecyclerViewTest/D07_RecyclerViewTest.iml" filepath="$PROJECT_DIR$/D07_RecyclerViewTest/D07_RecyclerViewTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/D08_CardViewTest/D08_CardViewTest.iml" filepath="$PROJECT_DIR$/D08_CardViewTest/D08_CardViewTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/D08_FragmentTest/D08_FragmentTest.iml" filepath="$PROJECT_DIR$/D08_FragmentTest/D08_FragmentTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/D08_ViewPagerTest/D08_ViewPagerTest.iml" filepath="$PROJECT_DIR$/D08_ViewPagerTest/D08_ViewPagerTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/D09_AnimationTest/D09_AnimationTest.iml" filepath="$PROJECT_DIR$/D09_AnimationTest/D09_AnimationTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/D09_AsyncTaskTest/D09_AsyncTaskTest.iml" filepath="$PROJECT_DIR$/D09_AsyncTaskTest/D09_AsyncTaskTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/D09_ObjectAnimatorTest/D09_ObjectAnimatorTest.iml" filepath="$PROJECT_DIR$/D09_ObjectAnimatorTest/D09_ObjectAnimatorTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/D09_ScrollingTest/D09_ScrollingTest.iml" filepath="$PROJECT_DIR$/D09_ScrollingTest/D09_ScrollingTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/D09_ShapeSelectorStyleTest/D09_ShapeSelectorStyleTest.iml" filepath="$PROJECT_DIR$/D09_ShapeSelectorStyleTest/D09_ShapeSelectorStyleTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SendTest/SendTest.iml" filepath="$PROJECT_DIR$/SendTest/SendTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D10_AlertDialog/D10_AlertDialog.iml" filepath="$PROJECT_DIR$/D10_AlertDialog/D10_AlertDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidcamp.iml" filepath="$PROJECT_DIR$/androidcamp.iml" />
     </modules>
   </component>
 </project>
